@@ -3,13 +3,14 @@ title: Blog Post Test
 date: 2024-09-23T22:32:56.761Z
 ---
 
+
 **You shall not leave your writing session without publishing it**
 
 ```python
 import openai
 ```
 
-<video src='https://youtu.be/S2WJkdmPAY8?si=LKUw8mYqF_AnO7Iu' width=180/>
+[![What a wonderful world](https://img.youtube.com/vi/S2WJkdmPAY8/0.jpg)](https://www.youtube.com/watch?v=S2WJkdmPAY8)
 
 >What a wonderful world.[^1]
 
